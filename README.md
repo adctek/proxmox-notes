@@ -4,6 +4,8 @@
 
 [Reset Proxmox Root Password via GRUB](./proxmox-reset-password.md)
 
-[Installing TrueNAS on Proxmox](./proxmox-truenas-md.md)
+[Installing TrueNAS on Proxmox](./proxmox-truenas-vm.md)
 
-Installing pfSense on Proxmox...
+[Installing pfSense on Proxmox](./proxmox-pfsense-virtual-router.md)
+
+...
