@@ -206,7 +206,7 @@ Prerequisites
 
 ### Configuration using the Web UI
 
-1. In the Proxmox GUI, navigate to *Datacenter > <Node> > Network*
+1. In the Proxmox GUI, navigate to *Datacenter > Node > Network*
 
 2. Open the Linux Bridge `vmbr0` 
    - Delete the configured nic in the *Bridge ports:* field
