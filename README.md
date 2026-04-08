@@ -8,4 +8,6 @@
 
 [Installing pfSense on Proxmox](./proxmox-pfsense-virtual-router.md)
 
+[Ollama with GPU Passthrough and OpenWebUI Container on Proxmox](./proxmox-ollama-openwebui.md)
+
 ...
